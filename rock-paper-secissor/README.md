@@ -1,0 +1,1 @@
+![Game](stone-paper-secissor.png)
